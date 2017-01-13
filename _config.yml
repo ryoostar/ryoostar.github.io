@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: ryoostar@gmail.com
 copyright_name: Your/Project/Corporate Name
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/"
+baseurl: ""
 url: "http://ryoostar.github.io"
 twitter_username: ryoostar
 github_username:  ryoostar
